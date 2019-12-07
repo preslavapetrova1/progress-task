@@ -1,0 +1,7 @@
+<div *ngIf="ps" id="content-wrapper">
+  <div *ngFor="let item of ps.currentProductList" id="item">
+    <img [src]="item.image" alt="">
+    <h3>{{item.name}}</h3>
+    <h4>{{item.price}}</h4>
+  </div>
+</div>

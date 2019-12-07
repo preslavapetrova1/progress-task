@@ -47,8 +47,7 @@
 
   app-products{
     position: relative;
-    width: calc(100% - 250px);
+    float: right;
     left: 250px;
-    padding-left: 20px;
   }
 }

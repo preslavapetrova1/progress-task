@@ -3,9 +3,10 @@
 
 #header-container{
   position: relative;
-  background-color: $pink;
+  background-color: $pink-header;
   height: 200px;
   width: 100vw;
+  z-index: 1;
 
   img{
     position: absolute;

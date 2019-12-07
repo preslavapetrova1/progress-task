@@ -1,0 +1,41 @@
+@import "../../shared/constants";
+
+#content-wrapper{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: calc(100% - 250px);
+  justify-content: space-between;
+
+
+  #item{
+    width: 300px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+
+    img{
+      width: 100%;
+      height: auto;
+    }
+
+    h3{
+      font-family: 'Playfair Display', serif;
+      font-size: 16px;
+      color: $pink-font;
+      font-weight: 400;
+    }
+
+    h4{
+      font-family: 'Quicksand', sans-serif;
+      font-size: 12px;
+    }
+  }
+
+
+}

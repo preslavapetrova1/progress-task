@@ -2,11 +2,11 @@ import { Component, OnInit } from '@angular/core';
 import {ProductService} from "../../services/product.service";
 
 @Component({
-  selector: 'app-body',
-  templateUrl: './body.component.html',
-  styleUrls: ['./body.component.scss']
+  selector: 'app-website-content',
+  templateUrl: './website-content.component.html',
+  styleUrls: ['./website-content.component.scss']
 })
-export class BodyComponent implements OnInit {
+export class WebsiteContentComponent implements OnInit {
 
   constructor(private ps: ProductService) { }
 

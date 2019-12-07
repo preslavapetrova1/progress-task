@@ -1,4 +1,5 @@
 @import "../../shared/constants";
+@import "../../shared/mixins";
 
 #content-wrapper{
   position: relative;
@@ -7,8 +8,9 @@
   flex-wrap: wrap;
   padding-left: 30px;
   padding-right: 30px;
-  width: calc(100% - 250px);
-  justify-content: space-between;
+  width: calc(100% - 310px);
+  left: 250px;
+  justify-content: space-evenly;
 
 
   #item{
@@ -16,12 +18,19 @@
     height: auto;
     display: flex;
     flex-direction: column;
-    align-content: center;
-    justify-content: center;
+    align-content: flex-start;
+    margin-top: 20px;
+    justify-content: space-evenly;
+    @include removeSelection;
+
+    &:hover{
+      cursor: pointer;
+    }
 
     img{
       width: 100%;
       height: auto;
+      @include removeDrag;
     }
 
     h3{
@@ -29,11 +38,15 @@
       font-size: 16px;
       color: $pink-font;
       font-weight: 400;
+      text-align: center;
     }
 
     h4{
       font-family: 'Quicksand', sans-serif;
-      font-size: 12px;
+      font-size: 14px;
+      text-align: center;
+      color: $price-color;
+      margin-top: 0;
     }
   }
 

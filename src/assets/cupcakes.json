@@ -2,21 +2,21 @@
   {
     "name": "RED VELVET CUPCAKE",
     "image": "/assets/images/cupcakes/1.jpg",
-    "price": "4.50 Lv.",
+    "price": "4.50",
     "description": "Deep red vanilla sponge with a light taste of chocolate, topped with a heavenly vanilla cream cheese frosting.",
     "allergen": "Contains GLUTEN(WHEAT), EGG, and DAIRY. All our products are made in an environment that handles NUTS, SOYA and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
   },
   {
     "name": "CHOCOLATE HEAVEN CUPCAKE",
     "image": "/assets/images/cupcakes/2.jpg",
-    "price": "4.50 Lv.",
+    "price": "4.50",
     "description": "Rich gooey chocolate cake topped with deliciously indulgent chocolate frosting.",
     "allergen": "Contains GLUTEN(WHEAT), EGG, and DAIRY. All our products are made in an environment that handles NUTS, SOYA and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns. "
   },
   {
     "name": "COOKIES & CREAM CUPCAKE",
     "image": "/assets/images/cupcakes/3.jpg",
-    "price": "4.50 Lv.",
+    "price": "4.50",
     "description": "Light Vanilla sponge baked with an Oreo Cookie inside, topped with fluffy Oreo Crumble cream cheese frosting and a miniature Oreo.  ",
     "allergen": "Contains GLUTEN(WHEAT), EGG, SOYA and DAIRY. All our products are made in an environment that handles NUTS and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
   },

@@ -1,34 +1,43 @@
-#body-content{
+@import "../../shared/mixins";
+
+#body-content {
   position: relative;
   width: 100vw;
+  height: calc(100vh - 200px);
+  top: 200px;
+  overflow-y: auto;
+  @include removeSelection;
+  @include removeDrag;
 
-  #menu{
+  #menu {
     position: fixed;
     width: 250px;
     display: flex;
     flex-direction: column;
     height: calc(100% - 200px);
-    box-shadow: 6px 2px 5px -2px rgba(204,204,204,1);
+    box-shadow: 6px 2px 5px -2px rgba(204, 204, 204, 1);
     justify-content: space-evenly;
+    @include removeSelection;
 
-    .menu-item{
+
+    .menu-item {
       position: relative;
       width: 250px;
       height: auto;
       justify-self: center;
       display: flex;
       flex-direction: column;
-      //margin-top: 50px;
 
-      img{
+      img {
         position: relative;
         width: 50px;
         height: auto;
         justify-self: center;
         align-self: center;
+        @include removeDrag;
       }
 
-      h2{
+      h2 {
         text-align: center;
         font-family: 'Quicksand', sans-serif;
         font-size: 13px;
@@ -43,11 +52,5 @@
       margin: 1em 0;
       padding: 0;
     }
-  }
-
-  app-products{
-    position: relative;
-    float: right;
-    left: 250px;
   }
 }

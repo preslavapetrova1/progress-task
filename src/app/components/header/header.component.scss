@@ -2,16 +2,19 @@
 @import "../../shared/mixins";
 
 #header-container{
-  position: relative;
+  position: fixed;
   background-color: $pink-header;
   height: 200px;
   width: 100vw;
   z-index: 1;
+  @include removeSelection;
 
   img{
     position: absolute;
     height: 180px;
     top: 10px;
     @include center(true, false);
+    @include removeSelection;
+    @include removeDrag;
   }
 }

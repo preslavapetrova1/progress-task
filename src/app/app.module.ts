@@ -4,7 +4,7 @@ import {NgModule} from '@angular/core';
 import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
 import {HeaderComponent} from './components/header/header.component';
-import {BodyComponent} from './components/body/body.component';
+import {WebsiteContentComponent} from './components/website-content/website-content.component';
 import {ProductsComponent} from './components/products/products.component';
 import {ProductService} from "./services/product.service";
 import {HttpClientModule} from "@angular/common/http";
@@ -13,7 +13,7 @@ import {HttpClientModule} from "@angular/common/http";
   declarations: [
     AppComponent,
     HeaderComponent,
-    BodyComponent,
+    WebsiteContentComponent,
     ProductsComponent
   ],
   imports: [

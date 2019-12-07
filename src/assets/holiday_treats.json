@@ -1,0 +1,58 @@
+[
+  {
+    "name": "SUGAR & SPICE CHRISTMAS CRACKER (LIMITED EDITION)",
+    "image": "/assets/images/cupcakes/1.jpg",
+    "price": "19.95",
+    "description": "Deep red vanilla sponge with a light taste of chocolate, topped with a heavenly vanilla cream cheese frosting.",
+    "allergen": "Contains GLUTEN(WHEAT), EGG, and DAIRY. All our products are made in an environment that handles NUTS, SOYA and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+  },
+  {
+    "name": "CHOCOLATE HEAVEN CUPCAKE",
+    "image": "/assets/images/cupcakes/2.jpg",
+    "price": "4.50 Lv.",
+    "description": "Rich gooey chocolate cake topped with deliciously indulgent chocolate frosting.",
+    "allergen": "Contains GLUTEN(WHEAT), EGG, and DAIRY. All our products are made in an environment that handles NUTS, SOYA and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns. "
+  },
+  {
+    "name": "COOKIES & CREAM CUPCAKE",
+    "image": "/assets/images/cupcakes/3.jpg",
+    "price": "4.50 Lv.",
+    "description": "Light Vanilla sponge baked with an Oreo Cookie inside, topped with fluffy Oreo Crumble cream cheese frosting and a miniature Oreo.  ",
+    "allergen": "Contains GLUTEN(WHEAT), EGG, SOYA and DAIRY. All our products are made in an environment that handles NUTS and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+  },
+  {
+    "name": "SEA SALT CARAMEL & POPCORN CUPCAKE",
+    "image": "/assets/images/cupcakes/4.jpeg",
+    "price": "4.95",
+    "description": "With an abundance of tasty treats waiting to be uncovered this season, here the most sweet-toothed of foragers can be satisfied with this caramel buttermilk sponge filled with sea salt toffee sauce, caramel cream cheese frosting and topped with crunchy sea salt caramel coated popcorn.",
+    "allergen": "Contains GLUTEN(WHEAT), EGG, NUTS and DAIRY. All our products are made in an environment that handles SOYA and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+  },
+  {
+    "name": "JOLLY GINGERBREAD CUPCAKE",
+    "image": "/assets/images/cupcakes/5.jpg",
+    "price": "4.95",
+    "description": "This adorable cupcake is made of scrumptiously spiced Gingerbread sponge, topped with luscious lemon cream cheese frosting. Decorated with a shimmered gingerbread men, snowflake, crispy chocolate pearls and metallic sugar dragees. ",
+    "allergen": "Contains GLUTEN(WHEAT), EGG, SOYA and DAIRY. All our products are made in an environment that handles NUTS and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+  },
+  {
+    "name": "MINCE PIE CUPCAKE",
+    "image": "/assets/images/cupcakes/6.jpg",
+    "price": "4.95",
+    "description": "This Yuletide mainstay just got a Peggy Porschen 'cake-over'. Elevate your seasonal mince pie indulgence with this cupcake version: mince pie sponge with an exquisite fruity mince-meat filling, topped with a zesty orange cream cheese frosting. Crowned with a star cookie for extra crunch. ",
+    "allergen": "Contains GLUTEN(WHEAT), EGG, DAIRY and SULPHUR DIOXIDE. All our products are made in an environment that handles PEANUTS, NUTS and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+  },
+  {
+    "name": "CHOCOLATE & ORANGE CUPCAKE",
+    "image": "/assets/images/cupcakes/7.jpg",
+    "price": "4.95",
+    "description": "The classic combination of chocolate & orange is always a winner. Upgrade this year's indulgence with Peggy's twist on tradition: orange buttermilk sponge soaked with orange syrup, filled with the finest orange marmalade and topped with a chocolate & orange meringue buttercream, a miniature Jaffa Cake and a drizzle of dark chocolate ganache. ",
+    "allergen": "Contains GLUTEN(WHEAT), EGG, SOYA and DAIRY. All our products are made in an environment that handles NUTS and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+  },
+  {
+    "name": "PLAYFUL POLAR BEAR CUPCAKE - SPECIAL EDITION",
+    "image": "/assets/images/cupcakes/8.jpg",
+    "price": "5.80",
+    "description": "Awaken your inner child this season as the nostalgic flavour of peppermint reveals itself in an ice blue frosting and combines with a delightfully light and fluffy chocolate chip sponge. Topped with an adorable Playful Polar Bear, this frosty themed cupcake won't fail to give a warm, rosy glow.",
+    "allergen": "Contains GLUTEN(WHEAT), EGG, SOYA, DAIRY, ALCOHOL (Decoration only) and FISH Gelatine (Decoration only). All our products are made in an environment that handles NUTS and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+  }
+]

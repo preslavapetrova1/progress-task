@@ -1,0 +1,16 @@
+@import "../../shared/constants";
+@import "../../shared/mixins";
+
+#header-container{
+  position: relative;
+  background-color: $pink;
+  height: 200px;
+  width: 100vw;
+
+  img{
+    position: absolute;
+    height: 180px;
+    top: 10px;
+    @include center(true, false);
+  }
+}

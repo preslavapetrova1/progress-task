@@ -1,58 +1,58 @@
 [
   {
+    "productId": 1,
     "name": "SUGAR & SPICE CHRISTMAS CRACKER",
     "image": "/assets/images/holiday_treats/1.jpg",
     "price": "19.95",
-    "description": "Perfect for sharing (or keeping to yourself!), Peggy's 'Sugar & Spice and All Things Nice Christmas Cracker' is filled with little individually wrapped bags of three cinnamon stars, three mini stollen bites, three gingerbread men and a mini bag of sea salt caramel popcorn. ",
-    "allergen": "Contains EGG, GLUTEN(WHEAT), DAIRY, NUTS and ALCOHOL. All our products are made in an environment that handles SOYA and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+    "inStock": 3
   },
   {
+    "productId": 2,
     "name": "ARCTIC CHRISTMAS CAKE",
     "image": "/assets/images/holiday_treats/2.jpg",
     "price": "74.95",
-    "description": "Displaying a mesmerising scene inspired by the majesty of the Arctic, here, vanilla chocolate chip sponge is layered with a marbled peppermint cream cheese frosting, creating the illusion of floating sea ice. Providing a habitat for a gathering of meringue icebergs, sugar Polar Bears and Pink Penguins, as well as a companionable scattering of snowflakes and sprinkles, this is a whimsical yet thoughtful artist's view of the magnificence of the polar regions. ",
-    "allergen": "Contains GLUTEN (WHEAT), EGG, SOYA, DAIRY and FISH Gelatine (Decoration only). All our products are made in an environment that handles NUTS and ALCOHOL and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should have any concerns.  "
+    "inStock": 3
   },
   {
+    "productId": 3,
     "name": "BAILEYS & CHOCOLATE LAYER CAKE",
     "image": "/assets/images/holiday_treats/3.jpg",
     "price": "54.95",
-    "description": "What better grown-up indulgence than creamy Irish liqueur and chocolate, combined in layer cake form? Light brown buttermilk sponge is soaked with Baileys syrup and layered with scrumptious chocolate and Baileys cream cheese frosting. Artfully decorated in a stripy 'Peggy Pink' and Baileys brown buttercream design, the cake is festively finished with pretty pastel stripes and a sprinkling of pink chocolate pearls and sugar snowflakes. ",
-    "allergen": "Contains GLUTEN (WHEAT), EGG, SOYA, DAIRY, ALCOHOL and FISH Gelatine (Decoration only). All our products are made in an environment that handles NUTS and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should have any concerns.  "
+    "inStock": 0
   },
   {
+    "productId": 4,
     "name": "ARCTIC CHRISTMAS CUPCAKES",
     "image": "/assets/images/holiday_treats/4.jpg",
     "price": "30.00",
-    "description": "Awaken your inner child this season as the nostalgic flavour of peppermint reveals itself in an ice blue frosting and combines with a delightfully light and fluffy chocolate chip sponge. Topped with an adorable icy white Polar bear, shimmering Snowflake or pink hued Penguin, these frosty themed cupcakes won't fail to give a warm, rosy glow. ",
-    "allergen": "Contains GLUTEN(WHEAT), EGG, SOYA, DAIRY, ALCOHOL (Decoration only) and FISH Gelatine (Decoration only). All our products are made in an environment that handles NUTS and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+    "inStock": 9
   },
   {
+    "productId": 5,
     "name": "WINTER CUPCAKES",
     "image": "/assets/images/holiday_treats/5.jpg",
     "price": "24.00",
-    "description": "For cake lovers, this trio of winter special cupcakes is the perfect gift. Includes two Jolly Gingerbread Cupcakes, two Chocolate & Orange Cupcakes and two Mince Pie Cupcakes. ",
-    "allergen": "Contains GLUTEN(WHEAT), EGG, SOYA, DAIRY and SULPHUR DIOXIDE. All our products are made in an environment that handles NUTS, Alcohol and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+    "inStock": 42
   },
   {
+    "productId": 6,
     "name": "ARCTIC ICE COOKIE BOX",
     "image": "/assets/images/holiday_treats/6.jpg",
     "price": "11.95",
-    "description": "Sparkling majestically this large vanilla biscuit claims the spotlight with its ivory sugar paste design, shimmered in powder pink with an icy blue and winter white snowflake centre.\n\nEach cookie comes presented in a pretty pink gift box with luxury satin ribbon and hang tag. ",
-    "allergen": "Contains GLUTEN (WHEAT), EGG and DAIRY. All our products are made in an environment that handles NUTS, SOYA and ALCOHOL and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should have any concerns.  "
+    "inStock": 0
   },
   {
+    "productId": 7,
     "name": "ARCTIC MERINGUE KISSES",
     "image": "/assets/images/holiday_treats/7.jpg",
     "price": "8.95",
-    "description": "Sealed with a kiss. A very sweet gift of ice blue, winter white and powder pink mini meringue kisses all wrapped up with a pretty pink bow.\n\n",
-    "allergen": "Contains EGG, GLUTEN(WHEAT),  ALCOHOL (decorating only) and FISH Gelatine (decoration only). All our products are made in an environment that handles SOYA, DAIRY and NUTS and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+    "inStock": 74
   },
   {
+    "productId": 8,
     "name": "PEGGY'S CINNAMON STARS",
     "image": "/assets/images/holiday_treats/8.jpg",
     "price": "8.95",
-    "description": "Star of wonder, star of might, star of royal icing bright. Here the warm spiced notes of cinnamon combines with vanilla, hazelnut and almond to make a perfect stocking filler, Secret Santa or teacher's gift. ",
-    "allergen": "Contains EGG, GLUTEN(WHEAT) and NUTS. All our products are made in an environment that handles DAIRY, SOYA and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+    "inStock": 34
   }
 ]

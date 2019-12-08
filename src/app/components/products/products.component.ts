@@ -11,6 +11,9 @@ export class ProductsComponent implements OnInit {
   constructor(private ps: ProductService) { }
 
   ngOnInit() {
+
+
+
   }
 
 }

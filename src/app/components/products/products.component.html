@@ -1,7 +1,8 @@
-<div *ngIf="ps" id="content-wrapper">
+<div *ngIf="ps.currentProductList" id="content-wrapper">
   <div *ngFor="let item of ps.currentProductList" id="item">
     <img [src]="item.image" alt="">
     <h3>{{item.name}}</h3>
-    <h4>{{item.price | currency: 'GBP'}}</h4>
+    <span [ngStyle]="{'opacity': item.inStock === 0 ? 1 : 0}">Out Of Stock</span>
+    <h4 [ngClass]="{'strikethrough': item.inStock === 0}">{{item.price | currency: 'GBP'}}</h4>
   </div>
 </div>

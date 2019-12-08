@@ -1,0 +1,6 @@
+<div class="menu-item" [@hovered]="isHovered? 'yes': 'no'"
+     (mouseover)="isHovered = true"
+     (mouseout)="isHovered = false">
+  <img [src]="'assets/images/menu/'+imageName+'.png'" alt="">
+  <h2 [ngStyle]="{'font-weight': isSelected? '900' : 'normal'}">{{title}}</h2>
+</div>

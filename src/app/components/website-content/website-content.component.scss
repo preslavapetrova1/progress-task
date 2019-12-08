@@ -1,11 +1,11 @@
 @import "../../shared/mixins";
+@import '~perfect-scrollbar/css/perfect-scrollbar.css';
 
 #body-content {
   position: relative;
   width: 100vw;
   height: calc(100vh - 200px);
   top: 200px;
-  overflow-y: auto;
   @include removeSelection;
   @include removeDrag;
 
@@ -19,31 +19,6 @@
     justify-content: space-evenly;
     @include removeSelection;
 
-
-    .menu-item {
-      position: relative;
-      width: 250px;
-      height: auto;
-      justify-self: center;
-      display: flex;
-      flex-direction: column;
-
-      img {
-        position: relative;
-        width: 50px;
-        height: auto;
-        justify-self: center;
-        align-self: center;
-        @include removeDrag;
-      }
-
-      h2 {
-        text-align: center;
-        font-family: 'Quicksand', sans-serif;
-        font-size: 13px;
-      }
-    }
-
     hr {
       display: block;
       height: 1px;
@@ -53,4 +28,5 @@
       padding: 0;
     }
   }
+
 }

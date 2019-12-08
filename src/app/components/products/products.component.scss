@@ -11,6 +11,7 @@
   width: calc(100% - 310px);
   left: 250px;
   justify-content: space-evenly;
+  margin-bottom: 60px;
 
 
   #item{
@@ -39,14 +40,26 @@
       color: $pink-font;
       font-weight: 400;
       text-align: center;
+      margin-bottom: 0;
     }
 
-    h4{
+    h4,span{
       font-family: 'Quicksand', sans-serif;
       font-size: 14px;
       text-align: center;
       color: $price-color;
-      margin-top: 0;
+      margin-top: 1px;
+      margin-bottom: 0;
+    }
+
+    .strikethrough{
+      text-decoration: line-through;
+      color: $price-inactive-color;
+      font-weight: lighter;
+    }
+
+    .invisible{
+      opacity: 0;
     }
   }
 

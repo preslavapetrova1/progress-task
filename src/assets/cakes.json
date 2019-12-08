@@ -1,58 +1,58 @@
 [
   {
+    "productId": 17,
     "name": "DARK CHOCOLATE TRUFFLE LAYER CAKE",
     "image": "/assets/images/cakes/1.jpg",
     "price": "54.95",
-    "description": "Rich chocolate cake layered with velvety smooth dark chocolate ganache. Customers can choose to add a hand-piped birthday plaque to your occasion.  ",
-    "allergen": "Contains GLUTEN(WHEAT), NUTS, EGG, and DAIRY. All our products are made in an environment that handles SOYA and ALCOHOL and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns.  "
+    "inStock": 30
   },
   {
+    "productId": 18,
     "name": "GLORIOUS VICTORIA LAYER CAKE",
     "image": "/assets/images/cakes/2.jpg",
     "price": "54.95",
-    "description": "Moist Victoria sponge baked with real vanilla, layered with raspberry jam and vanilla bean buttercream. Customers can add a personalised birthday plaque to suit their occasion. ",
-    "allergen": "Contains GLUTEN(WHEAT), EGG, and DAIRY. All our products are made in an environment that handles NUTS, SOYA and ALCOHOL and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns.  "
+    "inStock": 0
   },
   {
+    "productId": 19,
     "name": "LEMON, RASPBERRY & ROSE LAYER CAKE",
     "image": "/assets/images/cakes/3.jpg",
     "price": "54.95",
-    "description": "Zesty lemon sponge soaked with lemon syrup, filled with raspberry meringue buttercream and rose petal fragments. Masked with rippled raspberry meringue buttercream and decorated with fresh raspberries and edible flower confetti. Customers can choose to add a hand-piped birthday plaque to your occasion. ",
-    "allergen": "Contains GLUTEN(WHEAT), EGG, and DAIRY. All our products are made in an environment that handles NUTS, SOYA and ALCOHOL and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns.  "
+    "inStock": 45
   },
   {
+    "productId": 20,
     "name": "RED VELVET LAYER CAKE",
     "image": "/assets/images/cakes/4.jpg",
     "price": "49.95",
-    "description": "Scrumptious red velvet sponge, layered and masked with a delicious vanilla cream cheese frosting. Finished with a fine layer of red velvet cake crumbs each slice is topped with a piped buttercream rosette. Customers can add a personalised birthday plaque to suit their occasion. ",
-    "allergen": "Contains GLUTEN(WHEAT), EGG, NUTS and DAIRY. All our products are made in an environment that handles SOYA and ALCOHOL and may contain traces. Suitable for vegetarian, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns."
+    "inStock": 55
   },
   {
+    "productId": 21,
     "name": "SEA SALT CARAMEL & POPCORN LAYER CAKE",
     "image": "/assets/images/cakes/5.jpg",
     "price": "54.95",
-    "description": "A brown sugar and buttermilk sponge layered with a sea salt caramel filling, masked with a caramel meringue buttercream. Decorated with sea salt caramel popcorn and caramel sauce. Customers can choose to add a hand-piped birthday plaque to your occasion.",
-    "allergen": "Contains GLUTEN(WHEAT), EGG, and DAIRY. All our products are made in an environment that handles SOYA, NUTS and ALCOHOL and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns.  "
+    "inStock": 2
   },
   {
+    "productId": 22,
     "name": "VANILLA CLOUD LAYER CAKE",
     "image": "/assets/images/cakes/6.jpg",
     "price": "54.95",
-    "description": "Wonderfully light and fluffy vanilla chiffon sponge baked with real vanilla, layered and masked with Italian meringue buttercream. Dusted with sweet sugar polka dots and topped with multi-coloured french macarons. \nCustomers can choose to add a hand-piped birthday plaque to your occasion.",
-    "allergen": "Contains GLUTEN(WHEAT), NUTS, EGG and DAIRY. All our products are made in an environment that handles SOYA and Alcohol and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should you have any concerns.  "
+    "inStock": 0
   },
   {
+    "productId": 23,
     "name": "LUCKY LLAMA CAKE",
     "image": "/assets/images/cakes/7.jpg",
     "price": "94.95",
-    "description": "Save the drama and get a llama (cake). Our Lucky Llama creation is on trend and ready to party. Peggy pink meringue buttercream is topped with an adorable hand crafted sugar llama, cacti and a fiesta of sugar pearls and sprinkles. ",
-    "allergen": "Contains GLUTEN (WHEAT), EGG, and DAIRY. All our products are made in an environment that handles NUTS, SOYA and ALCOHOL and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should have any concerns. "
+    "inStock": 0
   },
   {
+    "productId": 24,
     "name": "RAINBOW & CLOUDS CAKE",
     "image": "/assets/images/cakes/8.jpg",
     "price": "84.95",
-    "description": "Create a splash of colour with our new Rainbow & Clouds Cake! Pastel Rainbow meringue buttercream topped with a pretty, hand crafted sugar rainbow, meringue clouds, pastel drops and sugar sprinkles. The cake shown on the image is a 6 inch. An additional cloud plaque with a message can be added at an additional cost. ",
-    "allergen": "Contains GLUTEN (WHEAT), EGG and DAIRY. All our products are made in an environment that handles NUTS, SOYA and ALCOHOL and may contain traces. Suitable for vegetarians, but not for vegans. Please refer to our Dietary & Allergen guide for full details regarding product ingredients and preparation. The guide should be checked carefully and regularly, should have any concerns.  "
+    "inStock": 55
   }
 ]

@@ -1,0 +1,25 @@
+@import '../../shared/mixins';
+
+.menu-item {
+  position: relative;
+  width: 250px;
+  height: auto;
+  justify-self: center;
+  display: flex;
+  flex-direction: column;
+
+  img {
+    position: relative;
+    width: 50px;
+    height: auto;
+    justify-self: center;
+    align-self: center;
+    @include removeDrag;
+  }
+
+  h2 {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 13px;
+  }
+}

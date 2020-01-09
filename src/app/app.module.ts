@@ -13,6 +13,9 @@ import {PERFECT_SCROLLBAR_CONFIG} from 'ngx-perfect-scrollbar';
 import {PerfectScrollbarConfigInterface} from 'ngx-perfect-scrollbar';
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 import { MenuItemComponent } from './components/menu-item/menu-item.component';
+import { DropDownsModule } from '@progress/kendo-angular-dropdowns';
+import { ProductPageComponent } from './components/product-page/product-page.component';
+
 
 const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
   suppressScrollX: true
@@ -24,14 +27,16 @@ const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
     HeaderComponent,
     WebsiteContentComponent,
     ProductsComponent,
-    MenuItemComponent
+    MenuItemComponent,
+    ProductPageComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     PerfectScrollbarModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    DropDownsModule
   ],
   providers: [
     ProductService,

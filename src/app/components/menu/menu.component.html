@@ -9,5 +9,6 @@
     <app-menu-item [title]="'CAKES'" [imageName]="'cake'" [isSelected]="ps.cakesSelected"
                    (click)="ps.setCakes()"></app-menu-item>
   </div>
-  <app-products></app-products>
+  <app-products (childEvent)="item"></app-products>
+  <app-product-page></app-product-page>
 </div>

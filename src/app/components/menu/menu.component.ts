@@ -3,10 +3,12 @@ import {ProductService} from "../../services/product.service";
 
 @Component({
   selector: 'app-website-content',
-  templateUrl: './website-content.component.html',
-  styleUrls: ['./website-content.component.scss'],
+  templateUrl: './menu.component.html',
+  styleUrls: ['./menu.component.scss'],
 })
 export class WebsiteContentComponent implements OnInit {
+
+  public
 
   constructor(public ps: ProductService) {
   }
